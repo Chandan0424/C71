@@ -1,0 +1,124 @@
+#marqueeStyle{
+    background-color: blue;
+    color: white;
+}
+body{
+    text-align: center;
+    background-color:lightgreen;
+}
+#firstImg{
+    width:500px;
+    height:400px;
+}
+#Contact{
+    scroll-behavior:smooth;
+    text-align: left;
+}
+.sportsImg{
+    width:300px;
+    height:200px;
+}
+.row:after{
+    content:"";
+    clear:both;
+    display:table;
+}
+.travel_maindiv{
+    float:left;
+    width:250px;
+    height:500px;
+    padding: 5px;
+    border: 1px solid #c7c7c7;
+    flex:nowrap;
+    margin-left: 100px;
+}
+.travel_maindiv img{
+    width: 100%;
+    height:50%px;
+}
+.travel_maindiv hr{
+    width:100%;
+}
+.travel_maindiv h5,.travel_maindiv p{
+    margin-left: 20px;
+}
+#det{
+    margin-top: 500px;
+}
+.travel_maindiv
+{
+    border: 1px solid #c7c7c7;
+    padding-left:0px;
+    padding-right:0px;
+    float: none;
+}
+.travel_maindiv img
+{
+    width:100%;
+}
+.travel_maindiv hr
+{
+    width:230px;
+}
+.travel_maindiv h5, .travel_maindiv p
+{
+    margin-left: 20px;
+}
+.movie_head
+{
+    font-size:20px;
+    padding: 6px 22px;
+    border-radius:10px;
+    margin-bottom:15px;
+    width:100%;
+    display:inline-block;
+}
+.movie_head i
+{
+    float:right;
+}
+.movie_text span
+{
+    color:#ff7700;
+}
+.environment_li
+{
+    margin: top 13px;
+}
+.environment_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+#contacts iframe{
+    width:100%;
+}
+.Contact1 a{
+    color:rgb(22, 156, 138);
+    
+}
+.Contact1 h3{
+    display:inline;
+}
+#contacts{
+    background-color: rgb(133, 26, 7);
+}
+.manager{
+    font-weight: bold;
+}
+.si
+{
+    width:300px;
+    height:400px;
+    float: none;
+    margin-left:150px;;
+}
+.header_entrepreneur { line-height: 2; }
+ .book { cursor: pointer; }
+ .book hr { margin-bottom: 10px; } 
+ .modal-content { margin-top: 100px; } 
+ .img_modal { display: inline-block; } 
+ .p_modal { margin-top: 10px; } 
+ .modal-body { text-align: center;
+       
+ }
